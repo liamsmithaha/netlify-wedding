@@ -2,6 +2,7 @@ import React, { Component } from "react";
 
 export class Details extends Component {
   render() {
+    //test deploy
     return (
       <div className="container">
         <div className="p-4 mt-4">
